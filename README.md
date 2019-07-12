@@ -1,5 +1,7 @@
 # Web Booster (Download without loading)
-A software which can give an exact view or direct download of a required content of user on internet. This software is allows user to get file from net without accessing all unwanted data on webpage in which he is going to access for his requirement. Here unwanted data means all flash, images, text, advertisements etc. Accessing this software make user job more easier to browse data on internet.
+* A software which can give an exact view or direct download of a required content of user on internet. 
+* This software is allows user to get file from net without accessing all unwanted data on web page in which he is going to access for his requirement. Here unwanted data means all flash, images, text, advertisements etc. 
+* Accessing this software make user job more easier to browse data on internet.
 
 ## Documents
 
